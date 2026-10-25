@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dynamic Island</string>
+    <string name="service_notification_title">Dynamic Island Active</string>
+    <string name="service_notification_desc">Running 24/7 with zero battery drain</string>
+    <string name="accessibility_desc">Enables pixel-perfect status bar priority and fluid tap and hold gestures for Dynamic Island</string>
+</resources>
